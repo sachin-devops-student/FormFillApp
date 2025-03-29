@@ -5,16 +5,14 @@
     <hr>
     <br>
 
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
-    <br>
+    <label for="first name"><b>First Name</b></label>
+    <input type="text" placeholder="Enter First Name" name="first name" id="first name" required>
 
-    <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
-    <br>
+    <label for="middle name"><b>Middle Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="middle name" id="middle name" required>
 
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
+    <label for="last name"><b>Last Name</b></label>
+    <input type="text" placeholder="Enter Mother Name" name="last name" id="last name" required>
     <br>
 
     <label for="mobile"><b>Mobile No.</b></label>
