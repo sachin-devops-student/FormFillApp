@@ -19,6 +19,11 @@
     <input type="text" placeholder="Enter Mobile No." name="mobile" id="mobile" required>
     <br>
 
+    <label for="alternate mobile no."><b>Alternate Mobile no.</b></label>
+    <input type="text" placeholder="Enter Altenate Mobile no." name="alternate mobile no." id="alternate mobile.no" required>
+    <br>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
