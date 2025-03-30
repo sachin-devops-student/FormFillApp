@@ -30,6 +30,10 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
+
+    <label for="blood group"><b>Blood Group</b></label>
+    <input type="text" placeholder="Blood Group" name="blood group" id="blood group" required>
+    <br>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
