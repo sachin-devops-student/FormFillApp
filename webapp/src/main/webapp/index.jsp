@@ -43,6 +43,10 @@
     <label for="marital status"><b>Marital Status</b></label>
     <input type="text" placeholder="Marital Status" name="marital status" id="marital status" required>
     <br>
+
+    <label for="spouse name"><b>Spouse Name</b></label>
+    <input type="text" placeholder="Spouse Name" name="spouse name" id="spouse name" required>
+    <br>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
