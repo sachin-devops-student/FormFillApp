@@ -39,6 +39,10 @@
     <label for="blood group"><b>Blood Group</b></label>
     <input type="text" placeholder="Blood Group" name="blood group" id="blood group" required>
     <br>
+
+    <label for="marital status"><b>Marital Status</b></label>
+    <input type="text" placeholder="Marital Status" name="marital status" id="marital status" required>
+    <br>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
